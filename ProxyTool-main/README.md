@@ -3,7 +3,7 @@
 ProxyTool is a simple Tool to **Get and Check** proxies **Programmed on Python version 3.**
 
 ## Important
-This tool has been programmed to be used for legal uses and I am not responsible for any illegal use of the tool.
+This tool has been programmed to be used for legal uses and I am not responsible for any illegal use of the tools.
 
 ## Installation
 
