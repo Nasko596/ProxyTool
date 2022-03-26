@@ -11,7 +11,7 @@ from colorama import Style;
 #Main Function
 
 def main():
-    print(Fore.GREEN + " ___                              _____                _   \n(  _`\                           (_   _)              (_ ) \n| |_) ) _ __    _          _   _   | |     _      _    | | \n| ,__/'( '__) /'_`\ (`\/')( ) ( )  | |   /'_`\  /'_`\  | | \n| |    | |   ( (_) ) >  < | (_) |  | |  ( (_) )( (_) ) | | \n(_)    (_)   `\___/'(_/\_)`\__, |  (_)  `\___/'`\___/'(___)\n                          ( )_| |                          \n                          `\___/'                          [By:https://github.com/9X4N]\n\n\n")
+    print(Fore.GREEN + " ___                              _____                _   \n(  _`\                           (_   _)              (_ ) \n| |_) ) _ __    _          _   _   | |     _      _    | | \n| ,__/'( '__) /'_`\ (`\/')( ) ( )  | |   /'_`\  /'_`\  | | \n| |    | |   ( (_) ) >  < | (_) |  | |  ( (_) )( (_) ) | | \n(_)    (_)   `\___/'(_/\_)`\__, |  (_)  `\___/'`\___/'(___)\n                          ( )_| |                          \n                          `\___/'                          [By:https://github.com/Nasko596]\n\n\n")
     cmdsParser = argparse.ArgumentParser(description='ProxyTool created get proxies fast and check them.')
     cmdsParser.add_argument("--google", help="Get google proxies.", dest='google', action='store_true', default=False)
     cmdsParser.add_argument("--https", help="Get https proxies.", dest='https', action='store_true', default=False)
@@ -157,4 +157,4 @@ def Printer(ip, port, type, country, isGoogle, isHttps):
 
 main()
 
-#By: 9X4N
+#By: Nasko596
