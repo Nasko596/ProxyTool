@@ -25,7 +25,7 @@ python3 ProxyTool.py --help
 python3 ProxyTool.py --google --https --count 1 --timeout 10
 ```
 ##### + Output:
-![help](https://cdn.discordapp.com/attachments/932732561917087775/932963730701053992/monddos.png)
+![help](https://cdn.discordapp.com/attachments/949663862611914782/957342324969578506/unknown.png)
 
 ## Usage Recommendation
 ```python
