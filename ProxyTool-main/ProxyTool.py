@@ -1,4 +1,4 @@
-#By: https://github.com/9X4N
+#By: https://github.com/Nasko596
 
 import argparse
 import requests;
