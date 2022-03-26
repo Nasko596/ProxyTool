@@ -17,7 +17,7 @@ This tool has been programmed to be used for legal uses and I am not responsible
 python3 ProxyTool.py --help
 ```
 ##### + Output:
-![help](https://cdn.discordapp.com/attachments/932732561917087775/932964483532456006/hacked.png)
+![help](https://media.discordapp.net/attachments/949663862611914782/957341977295335434/unknown.png)
 
 ## Example
 
